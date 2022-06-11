@@ -1,0 +1,153 @@
+#title{
+  background-color: #ff4c68;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+#container-fluid{
+  padding: 3% 15%;
+}
+h1 { font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 2;
+  color: white;
+  padding-top: 30px;
+}
+.navbar{
+  padding-bottom: 5.5rem;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.dld-btn{
+  margin :5% 3% 5% 0;
+}
+.img-t{
+  width: 60%;
+  padding-top: 0px;
+  transform:rotate(15deg);
+  position: absolute;
+}
+#features{
+  padding: 7% 15%;
+}
+.check-box
+{
+  text-align: center;
+}
+h2{
+  font-size: 3rem;
+  line-height: 2;
+}
+h3{
+  font-family:"bold";
+}
+p{
+  color: #8f8f8f;
+}
+.icon{
+  color: #ef8172;
+  padding-bottom: 10px;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.dog{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.log{
+  width:15%;
+  margin:20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.card{
+  text-align: center;
+}
+
+#pricing{
+  padding: 100px;
+}
+.pr-col{
+  padding: 3% 2%;
+}
+.img-t{
+  width: 250px;
+  position: relative;
+  left: 100px;
+}
+
+#features{
+  background-color: #fff;
+  position:relative;
+  z-index: 1;
+}
+
+.row{
+  padding-top: 25px;
+}
+
+@media (max-width:1028px) {
+  #title{
+    text-align: center;
+  }
+  .img-t{
+    position: static;
+    transform: rotate(0deg);
+  }
+
+}
+
+#cta{
+  background-color: #ff4c68;
+}
+.last{
+  color: #fff;
+  text-align: center;
+  padding: 5% 10%;
+}
+.hand{
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Montserrat Black";
+padding-bottom: 40px;
+
+}
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 2% 5%;
+
+}
+.footer-items{
+  padding-bottom: 10px;
+}
+.social{
+  margin: 20px 10px;
+}
+.summi{
+  text-align: center;
+}
+.history{
+  margin:20px 10px;
+}
